@@ -1,6 +1,4 @@
-# WordleTemplate
- 
-Heavily inspired by Wordle
+ Heavily inspired by Wordle
 
 # Building and running
 - Start by cloning the repository with `git clone --recursive https://github.com/baselsaad/Wordplay--guess-the-word`
