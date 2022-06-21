@@ -1,2 +1,2 @@
-# Wordplay: guess the word
+# WordleTemplate
  
