@@ -3,7 +3,7 @@
 Heavily inspired by Wordle
 
 # Building and running
-- git clone --recursive https://github.com/baselsaad/Wordplay--guess-the-word
+- Start by cloning the repository with `git clone --recursive https://github.com/baselsaad/Wordplay--guess-the-word`
 - Open with Unity 2021.3.2f1
 
 # Google Play
